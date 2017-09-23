@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="masukansuhu">Input the value</string>
+    <string name="pilihansuhu">From</string>
+    <string name="pilihansuhu1">To</string>
+    <string-array name="Jenis_Suhu">
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+        <item>Reamur</item>
+        <item>Celcius</item>
+    </string-array>
+
+</resources>
